@@ -3,4 +3,5 @@
 <h3> User card grid layout having navbar showing brand name & a button in the navabr saying "Get Users" which makes an API call to get the users data.</h3>
 
 <h1> Live Demo -</h1>
-https://akash-react-app-task.netlify.app/
+
+https://peaceful-bohr-bd5e92.netlify.app/
