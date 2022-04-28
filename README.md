@@ -4,4 +4,4 @@
 
 <h1> Live Demo -</h1>
 
-https://github.com/rushikesh-mallanath/LGMVIP-Web_Task-2
+https://u20qz.csb.app/
